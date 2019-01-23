@@ -1,0 +1,13 @@
+<templates>
+<!--
+tvg="id"
+ id of channel for generic teleguide lists. Good source of ids is located https://xtream-editor.com/en/epg
+
+cat="category"
+ nothing, or one of the following: movies, music, children, adult, info, sports, news, games, radio
+
+name*="channel name"
+ channel name aliases
+-->
+
+</templates>
