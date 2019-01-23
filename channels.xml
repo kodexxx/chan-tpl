@@ -13,4 +13,7 @@ lang="en"
  language this channel suits for (default for all languages), checked against language of the navigator app
 -->
 
+<ch tvg="matchhd.ru" lang="ru" name="Матч! HD" logo="http://epg.it999.ru/img/2017.png" cat="sports" />
+<ch tvg="pervyjhd.ru" lang="ru" name="Первый канал HD" name2="Первый канал" name3="Первый HD" logo="http://epg.it999.ru/img/983.png"/>
+
 </templates>
