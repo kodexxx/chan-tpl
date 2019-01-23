@@ -8,6 +8,9 @@ cat="category"
 
 name*="channel name"
  channel name aliases
+
+lang="en"
+ language this channel suits for (default for all languages), checked against language of the navigator app
 -->
 
 </templates>
