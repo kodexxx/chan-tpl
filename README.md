@@ -1,4 +1,9 @@
 # chan-tpl
 Channel templates
 
-,"tvg-id": ["name1", "name2", "http://path/to/icon.ext"]
+```
+<templates>
+<ch tvg="tvGuidId1" name="Channel 1" name2="Channel 1 SD" logo="http://path/to/img.png" cat="sports"/>
+<ch tvg="tvGuidId2" name="Channel 2" logo="http://path/to/img.png" cat="sports"/>
+</templates>
+```
