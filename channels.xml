@@ -13,38 +13,38 @@ lang="en"
  language this channel suits for (default for all languages), checked against language of the navigator app
 -->
  
-<ch tvg="1hd.ru" lang="*" name="1HD Music Television" logo="http://epg.it999.ru/img/1329.png" cat="music"/>
-<ch tvg="2x2.ru" lang="*" name="2х2" name2="2x2" logo="http://epg.it999.ru/img/323.png" cat="movies"/>
+<ch tvg="1hd.ru" lang="ru" name="1HD Music Television" logo="http://epg.it999.ru/img/1329.png" cat="music"/>
+<ch tvg="2x2.ru" lang="ru" name="2х2" name2="2x2" logo="http://epg.it999.ru/img/323.png" cat="movies"/>
 <ch tvg="8kanal1116.ru" lang="*" name="8 Канал" logo="http://epg.it999.ru/img/2167.png"/>
-<ch tvg="acbtv.ru" lang="*" name="ACB TV" logo="http://epg.it999.ru/img/2307.png"/>
+<ch tvg="acbtv.ru" lang="ru" name="ACB TV" logo="http://epg.it999.ru/img/2307.png"/>
 <ch tvg="amedia2.ru" lang="*" name="Amedia 2" name2="A2" logo="http://epg.it999.ru/img/918.png" cat="movies"/>
 <ch tvg="amediahithd.ru" lang="*" name="Amedia Hit HD" logo="http://epg.it999.ru/img/2007.png" cat="movies"/>
 <ch tvg="amediapremiumhd.ru" lang="*" name="Amedia Premium HD" logo="http://epg.it999.ru/img/1372.png" cat="movies"/>
 <ch tvg="amedia1hd.ru" lang="*" name="Amedia 1 HD" name2="Amedia 1" name3="A1" logo="http://epg.it999.ru/img/1371.png" cat="movies"/>
 <ch tvg="ani.ru" lang="*" name="Ani" logo="http://epg.it999.ru/img/2011.png"/>
-<ch tvg="animalplanet.ru" lang="*" name="Animal Planet" logo="http://epg.it999.ru/img/365.png" cat="info"/>
-<ch tvg="animalplanethd.ru" lang="*" name="Animal Planet HD" logo="http://epg.it999.ru/img/990.png" cat="info"/>
-<ch tvg="bollywoodhd.ru" lang="*" name="Bollywood HD" logo="http://epg.it999.ru/img/1395.png" cat="movies"/>
+<ch tvg="animalplanet.ru" lang="ru" name="Animal Planet" logo="http://epg.it999.ru/img/365.png" cat="info"/>
+<ch tvg="animalplanethd.ru" lang="ru" name="Animal Planet HD" logo="http://epg.it999.ru/img/990.png" cat="info"/>
+<ch tvg="bollywoodhd.ru" lang="ru" name="Bollywood HD" logo="http://epg.it999.ru/img/1395.png" cat="movies"/>
 <ch tvg="bridgetv.ru" lang="*" name="Bridge TV" logo="http://epg.it999.ru/img/151.png" cat="music"/>
-<ch tvg="dangetv.ru" lang="*" name="Bridge TV Dance" logo="http://epg.it999.ru/img/2024.png" cat="music"/>
+<ch tvg="dangetv.ru" lang="ru" name="Bridge TV Dance" logo="http://epg.it999.ru/img/2024.png" cat="music"/>
 <ch tvg="rusongtv.ru" lang="*" name="Bridge TV Русский Хит" logo="http://epg.it999.ru/img/591.png" cat="music"/>
-<ch tvg="cbsreality.ru" lang="*" name="CBS Reality" logo="http://epg.it999.ru/img/912.png"/>
-<ch tvg="cctv4.ru" lang="*" name="CCTV 4" logo="http://epg.it999.ru/img/2290.png"/>
-<ch tvg="cnbc.ru" lang="*" name="CNBC Europe" logo="http://epg.it999.ru/img/2128.png" cat="news"/>
+<ch tvg="cbsreality.ru" lang="ru" name="CBS Reality" logo="http://epg.it999.ru/img/912.png"/>
+<ch tvg="cctv4.ru" lang="ru" name="CCTV 4" logo="http://epg.it999.ru/img/2290.png"/>
+<ch tvg="cnbc.ru" lang="ru" name="CNBC Europe" logo="http://epg.it999.ru/img/2128.png" cat="news"/>
 <ch tvg="davinci.ru" lang="*" name="Da Vinci Learning" logo="http://epg.it999.ru/img/410.png" cat="info"/>
-<ch tvg="discoverychannel.ru" lang="*" name="Discovery Channel" logo="http://epg.it999.ru/img/325.png" cat="info"/>
-<ch tvg="discoverychannelhd.ru" lang="*" name="Discovery Channel HD" logo="http://epg.it999.ru/img/1612.png" cat="info"/>
-<ch tvg="discoveryscience.ru" lang="*" name="Discovery Science" logo="http://epg.it999.ru/img/409.png" cat="info"/>
+<ch tvg="discoverychannel.ru" lang="ru" name="Discovery Channel" logo="http://epg.it999.ru/img/325.png" cat="info"/>
+<ch tvg="discoverychannelhd.ru" lang="ru" name="Discovery Channel HD" logo="http://epg.it999.ru/img/1612.png" cat="info"/>
+<ch tvg="discoveryscience.ru" lang="ru" name="Discovery Science" logo="http://epg.it999.ru/img/409.png" cat="info"/>
 <ch tvg="englishclubtv.ru" lang="*" name="English Club TV" logo="http://epg.it999.ru/img/2155.png" cat="info"/>
 <ch tvg="europaplustv.ru" lang="*" name="Europa Plus TV" logo="http://epg.it999.ru/img/681.png" cat="music"/>
-<ch tvg="eurosport.ru" lang="*" name="Eurosport 1" logo="http://epg.it999.ru/img/2052.png" cat="sports"/>
-<ch tvg="eurosporthd.ru" lang="*" name="Eurosport 1 HD" logo="http://epg.it999.ru/img/560.png" cat="sports"/>
-<ch tvg="eurosport2hd.ru" lang="*" name="Eurosport 2 HD" logo="http://epg.it999.ru/img/850.png" cat="sports"/>
-<ch tvg="extremesports.ru" lang="*" name="Extreme Sports" logo="http://epg.it999.ru/img/2053.png" cat="sports"/>
-<ch tvg="foxhd.ru" lang="*" name="FOX HD" logo="http://epg.it999.ru/img/1031.png" cat="movies"/>
-<ch tvg="foxlife.ru" lang="*" name="FOX Life" logo="http://epg.it999.ru/img/615.png" cat="movies"/>
-<ch tvg="gulli.ru" lang="*" name="Gulli Girl" logo="http://epg.it999.ru/img/810.png"/>
-<ch tvg="h2.ru" lang="*" name="H2" logo="http://epg.it999.ru/img/2356.png"/>
+<ch tvg="eurosport.ru" lang="ru" name="Eurosport 1" logo="http://epg.it999.ru/img/2052.png" cat="sports"/>
+<ch tvg="eurosporthd.ru" lang="ru" name="Eurosport 1 HD" logo="http://epg.it999.ru/img/560.png" cat="sports"/>
+<ch tvg="eurosport2hd.ru" lang="ru" name="Eurosport 2 HD" logo="http://epg.it999.ru/img/850.png" cat="sports"/>
+<ch tvg="extremesports.ru" lang="ru" name="Extreme Sports" logo="http://epg.it999.ru/img/2053.png" cat="sports"/>
+<ch tvg="foxhd.ru" lang="ru" name="FOX HD" logo="http://epg.it999.ru/img/1031.png" cat="movies"/>
+<ch tvg="foxlife.ru" lang="ru" name="FOX Life" logo="http://epg.it999.ru/img/615.png" cat="movies"/>
+<ch tvg="gulli.ru" lang="ru" name="Gulli Girl" logo="http://epg.it999.ru/img/810.png"/>
+<ch tvg="h2.ru" lang="ru" name="H2" logo="http://epg.it999.ru/img/2356.png"/>
 <ch tvg="hdlife.ru" lang="*" name="HD Life" logo="http://epg.it999.ru/img/415.png"/>
 <ch tvg="historyhd.ru" lang="*" name="History HD" logo="http://epg.it999.ru/img/1394.png" cat="info"/>
 <ch tvg="mcmtop.ru" lang="*" name="MCM TOP" logo="http://epg.it999.ru/img/2276.png" cat="music"/>
@@ -54,16 +54,16 @@ lang="en"
 <ch tvg="mtvhits.ru" lang="*" name="MTV Hits" logo="http://epg.it999.ru/img/1723.png" cat="music"/>
 <ch tvg="mtvlivehd.ru" lang="*" name="MTV Live HD" logo="http://epg.it999.ru/img/382.png" cat="music"/>
 <ch tvg="mtvrocks.ru" lang="*" name="MTV Rocks" logo="http://epg.it999.ru/img/2235.png" cat="music"/>
-<ch tvg="natgeowild.ru" lang="*" name="Nat Geo WILD" logo="http://epg.it999.ru/img/223.png" cat="info"/>
-<ch tvg="natgeowildhd.ru" lang="*" name="Nat Geo WILD HD" logo="http://epg.it999.ru/img/807.png" cat="info"/>
-<ch tvg="nationalgeographic.ru" lang="*" name="National Geographic" logo="http://epg.it999.ru/img/102.png" cat="info"/>
-<ch tvg="nationalgeographichd.ru" lang="*" name="National Geographic HD" logo="http://epg.it999.ru/img/389.png" cat="info"/>
-<ch tvg="nhkworldtv.ru" lang="*" name="NHK World TV" logo="http://epg.it999.ru/img/921.png" cat="news"/>
-<ch tvg="nickelodeonhd.ru" lang="*" name="Nickelodeon HD" logo="http://epg.it999.ru/img/423.png" cat="children"/>
-<ch tvg="nickjr.ru" lang="*" name="Nickelodeon JR" logo="http://epg.it999.ru/img/917.png" cat="children"/>
-<ch tvg="oceantv.ru" lang="*" name="Ocean TV" logo="http://epg.it999.ru/img/55.png"/>
-<ch tvg="outdoor.ru" lang="*" name="Outdoor Channel" logo="http://epg.it999.ru/img/322.png"/>
-<ch tvg="paramountcomedyrussia.ru" lang="*" name="Paramount Comedy" logo="http://epg.it999.ru/img/920.png" cat="movies"/>
+<ch tvg="natgeowild.ru" lang="ru" name="Nat Geo WILD" logo="http://epg.it999.ru/img/223.png" cat="info"/>
+<ch tvg="natgeowildhd.ru" lang="ru" name="Nat Geo WILD HD" logo="http://epg.it999.ru/img/807.png" cat="info"/>
+<ch tvg="nationalgeographic.ru" lang="ru" name="National Geographic" logo="http://epg.it999.ru/img/102.png" cat="info"/>
+<ch tvg="nationalgeographichd.ru" lang="ru" name="National Geographic HD" logo="http://epg.it999.ru/img/389.png" cat="info"/>
+<ch tvg="nhkworldtv.ru" lang="ru" name="NHK World TV" logo="http://epg.it999.ru/img/921.png" cat="news"/>
+<ch tvg="nickelodeonhd.ru" lang="ru" name="Nickelodeon HD" logo="http://epg.it999.ru/img/423.png" cat="children"/>
+<ch tvg="nickjr.ru" lang="ru" name="Nickelodeon JR" logo="http://epg.it999.ru/img/917.png" cat="children"/>
+<ch tvg="oceantv.ru" lang="ru" name="Ocean TV" logo="http://epg.it999.ru/img/55.png"/>
+<ch tvg="outdoor.ru" lang="ru" name="Outdoor Channel" logo="http://epg.it999.ru/img/322.png"/>
+<ch tvg="paramountcomedyrussia.ru" lang="ru" name="Paramount Comedy" logo="http://epg.it999.ru/img/920.png" cat="movies"/>
 <ch tvg="rutv.ru" lang="*" name="RU TV" name2="RU.TV" logo="http://epg.it999.ru/img/2277.png" cat="music"/>
 <ch tvg="rt.ru" lang="*" name="Russia Today" name2="RT" logo="http://epg.it999.ru/img/2269.png" cat="news"/>
 <ch tvg="rtd.ru" lang="*" name="Russia Today Documentary" name2="Russia Today Doc" name3="RT Doc" logo="http://epg.it999.ru/img/2295.png"/>
@@ -72,33 +72,33 @@ lang="en"
 <ch tvg="shopshow.ru" lang="*" name="Shop&Show" logo="http://epg.it999.ru/img/2289.png"/>
 <ch tvg="shop24.ru" lang="*" name="SHOP24" logo="http://epg.it999.ru/img/2302.png"/>
 <ch tvg="shoppinglive.ru" lang="*" name="Shopping Live" logo="http://epg.it999.ru/img/2301.png"/>
-<ch tvg="yegoisttv.ru" lang="*" name="SHOT TV" logo="http://epg.it999.ru/img/431.png"/>
-<ch tvg="sonytv.ru" lang="*" name="Sony Channel" logo="http://epg.it999.ru/img/311.png" cat="movies"/>
-<ch tvg="sonyscifi.ru" lang="*" name="Sony Sci-Fi" logo="http://epg.it999.ru/img/516.png" cat="movies"/>
-<ch tvg="sonyturbo.ru" lang="*" name="Sony Turbo" logo="http://epg.it999.ru/img/935.png" cat="movies"/>
-<ch tvg="spike.ru" lang="*" name="Spike" logo="http://epg.it999.ru/img/2284.png"/>
-<ch tvg="tiji.ru" lang="*" name="TiJi" logo="http://epg.it999.ru/img/555.png" cat="children"/>
-<ch tvg="tlchd.ru" lang="*" name="TLC HD" logo="http://epg.it999.ru/img/425.png"/>
-<ch tvg="travelchannel.ru" lang="*" name="Travel Channel" logo="http://epg.it999.ru/img/613.png"/>
-<ch tvg="travelchannelhd.ru" lang="*" name="Travel Channel HD" logo="http://epg.it999.ru/img/124.png"/>
-<ch tvg="traveladventure.ru" lang="*" name="Travel+Adventure" logo="http://epg.it999.ru/img/1035.png"/>
-<ch tvg="trick.ru" lang="*" name="Trick" logo="http://epg.it999.ru/img/2286.png"/>
-<ch tvg="tv21.ru" lang="*" name="TV XXI" logo="http://epg.it999.ru/img/309.png" cat="movies"/>
-<ch tvg="tv1000.ru" lang="*" name="TV1000" logo="http://epg.it999.ru/img/127.png" cat="movies"/>
-<ch tvg="tv1000action.ru" lang="*" name="TV1000 Action" logo="http://epg.it999.ru/img/125.png" cat="movies"/>
+<ch tvg="yegoisttv.ru" lang="ru" name="SHOT TV" logo="http://epg.it999.ru/img/431.png"/>
+<ch tvg="sonytv.ru" lang="ru" name="Sony Channel" logo="http://epg.it999.ru/img/311.png" cat="movies"/>
+<ch tvg="sonyscifi.ru" lang="ru" name="Sony Sci-Fi" logo="http://epg.it999.ru/img/516.png" cat="movies"/>
+<ch tvg="sonyturbo.ru" lang="ru" name="Sony Turbo" logo="http://epg.it999.ru/img/935.png" cat="movies"/>
+<ch tvg="spike.ru" lang="ru" name="Spike" logo="http://epg.it999.ru/img/2284.png"/>
+<ch tvg="tiji.ru" lang="ru" name="TiJi" logo="http://epg.it999.ru/img/555.png" cat="children"/>
+<ch tvg="tlchd.ru" lang="ru" name="TLC HD" logo="http://epg.it999.ru/img/425.png"/>
+<ch tvg="travelchannel.ru" lang="ru" name="Travel Channel" logo="http://epg.it999.ru/img/613.png"/>
+<ch tvg="travelchannelhd.ru" lang="ru" name="Travel Channel HD" logo="http://epg.it999.ru/img/124.png"/>
+<ch tvg="traveladventure.ru" lang="ru" name="Travel+Adventure" logo="http://epg.it999.ru/img/1035.png"/>
+<ch tvg="trick.ru" lang="ru" name="Trick" logo="http://epg.it999.ru/img/2286.png"/>
+<ch tvg="tv21.ru" lang="ru" name="TV XXI" logo="http://epg.it999.ru/img/309.png" cat="movies"/>
+<ch tvg="tv1000.ru" lang="ru" name="TV1000" logo="http://epg.it999.ru/img/127.png" cat="movies"/>
+<ch tvg="tv1000action.ru" lang="ru" name="TV1000 Action" logo="http://epg.it999.ru/img/125.png" cat="movies"/>
 <ch tvg="tv1000russkoekino.ru" lang="*" name="TV1000 Русское кино" logo="http://epg.it999.ru/img/267.png" cat="movies"/>
 <ch tvg="vh1classic.ru" lang="*" name="VH1 Classic" logo="http://epg.it999.ru/img/156.png" cat="music"/>
 <ch tvg="vh1european.ru" lang="*" name="VH1 European" logo="http://epg.it999.ru/img/491.png" cat="music"/>
-<ch tvg="viasatexplore.ru" lang="*" name="Viasat Explorer" logo="http://epg.it999.ru/img/521.png" cat="info"/>
-<ch tvg="viasathistory.ru" lang="*" name="Viasat History" logo="http://epg.it999.ru/img/277.png" cat="info"/>
-<ch tvg="viasatnaturecee.ru" lang="*" name="Viasat Nature" logo="http://epg.it999.ru/img/765.png" cat="info"/>
+<ch tvg="viasatexplore.ru" lang="ru" name="Viasat Explorer" logo="http://epg.it999.ru/img/521.png" cat="info"/>
+<ch tvg="viasathistory.ru" lang="ru" name="Viasat History" logo="http://epg.it999.ru/img/277.png" cat="info"/>
+<ch tvg="viasatnaturecee.ru" lang="ru" name="Viasat Nature" logo="http://epg.it999.ru/img/765.png" cat="info"/>
 <ch tvg="viasatnaturehistoryhd.ru" lang="*" name="Viasat Nature History HD" logo="http://epg.it999.ru/img/2012.png" cat="info"/>
-<ch tvg="viasatsporthd.ru" lang="*" name="Viasat sport HD" logo="http://epg.it999.ru/img/2004.png" cat="sports"/>
-<ch tvg="viasatsport.ru" lang="*" name="Viasat Sport" logo="http://epg.it999.ru/img/2055.png" cat="sports"/>
-<ch tvg="tv1000comedyhd.ru" lang="*" name="ViP Comedy" logo="http://epg.it999.ru/img/1011.png" cat="movies"/>
-<ch tvg="tv1000megahithd.ru" lang="*" name="ViP Megahit" logo="http://epg.it999.ru/img/1012.png" cat="movies"/>
-<ch tvg="tv1000premiumhd.ru" lang="*" name="ViP Premiere" logo="http://epg.it999.ru/img/1013.png" cat="movies"/>
-<ch tvg="zeetv.ru" lang="*" name="Zee TV" logo="http://epg.it999.ru/img/2233.png"/>
+<ch tvg="viasatsporthd.ru" lang="ru" name="Viasat sport HD" logo="http://epg.it999.ru/img/2004.png" cat="sports"/>
+<ch tvg="viasatsport.ru" lang="ru" name="Viasat Sport" logo="http://epg.it999.ru/img/2055.png" cat="sports"/>
+<ch tvg="tv1000comedyhd.ru" lang="ru" name="ViP Comedy" name2="ViP Comedy HD" logo="http://epg.it999.ru/img/1011.png" cat="movies"/>
+<ch tvg="tv1000megahithd.ru" lang="ru" name="ViP Megahit" name2="ViP Megahit HD" logo="http://epg.it999.ru/img/1012.png" cat="movies"/>
+<ch tvg="tv1000premiumhd.ru" lang="ru" name="ViP Premiere" name2="ViP Premiere HD" logo="http://epg.it999.ru/img/1013.png" cat="movies"/>
+<ch tvg="zeetv.ru" lang="ru" name="Zee TV" logo="http://epg.it999.ru/img/2233.png"/>
 <ch tvg="avto24.ru" lang="*" name="Авто 24" logo="http://epg.it999.ru/img/2008.png"/>
 <ch tvg="avtoplyus.ru" lang="*" name="Авто Плюс" logo="http://epg.it999.ru/img/153.png"/>
 <ch tvg="belarus24.ru" lang="*" name="Беларусь 24" logo="http://epg.it999.ru/img/2170.png" cat="news"/>
@@ -110,7 +110,7 @@ lang="en"
 <ch tvg="detskijmir.ru" lang="*" name="Детский мир" logo="http://epg.it999.ru/img/923.png" cat="children"/>
 <ch tvg="doktor.ru" lang="*" name="Доктор" logo="http://epg.it999.ru/img/16.png"/>
 <ch tvg="domkino.ru" lang="*" name="Дом кино" logo="http://epg.it999.ru/img/834.png" cat="movies"/>
-<ch tvg="domkinopremium.ru" lang="*" name="Дом кино Премиум" logo="http://epg.it999.ru/img/2020.png" cat="movies"/>
+<ch tvg="domkinopremium.ru" lang="*" name="Дом кино Премиум" name2="Дом кино Премиум HD" logo="http://epg.it999.ru/img/2020.png" cat="movies"/>
 <ch tvg="domashniezhivotnye.ru" lang="*" name="Домашние животные" logo="http://epg.it999.ru/img/520.png" cat="info"/>
 <ch tvg="domashnij.ru" lang="*" name="Домашний" logo="http://epg.it999.ru/img/304.png"/>
 <ch tvg="e.ru" lang="*" name="Е" name2="E" logo="http://epg.it999.ru/img/1676.png" cat="games"/>
